@@ -17,6 +17,9 @@
   <a href="mailto:jenilshyara@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://twitter.com/JenilShyara_">
+    <img src="https://img.shields.io/twitter/follow/JenilShyara_">
+  </a>
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
